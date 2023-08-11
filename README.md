@@ -1,5 +1,5 @@
 # plan_with_Tech a React Js App
-This is  for creating React projects (plan with tech web app) with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+This is  for creating React projects (plan with tech web app) with REACT JS and Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
 ## Usage
 
