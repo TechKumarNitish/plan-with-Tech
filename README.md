@@ -7,12 +7,12 @@ To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/TechKumarNitish/SimpleIncrementAndDecrementApp_REACTJS_Html_tailwindCss.git
+    https://github.com/TechKumarNitish/plan-with-Tech.git
     ```
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
+    cd plan-with-Tech
     npm install
     ```
 
