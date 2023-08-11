@@ -7,7 +7,7 @@ To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
-    https://github.com/TechKumarNitish/plan-with-Tech.git
+    git clone https://github.com/TechKumarNitish/plan-with-Tech.git
     ```
 
 1. Install the required packages.
