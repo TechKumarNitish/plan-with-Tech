@@ -20,6 +20,9 @@ To start building your own components and styles, follow these steps:
     ```sh
     npm start
     ```
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/plan-with-tech/one.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/plan-with-tech/two.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/plan-with-tech/three.png"/>
 1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
 
