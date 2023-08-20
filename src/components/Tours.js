@@ -5,7 +5,7 @@ export default function Tours({tours,removeTour}/*,props*/){
     
     return(
         <div className='container'>
-            <h2 className='title'>Plan with Love</h2>
+            <h2 className='title'>Plan with Tech</h2>
             <div className='cards'>
                 {
                     tours.map((tour)=>{

@@ -1,6 +1,6 @@
-
 import './Card.css'
 import { useState } from 'react';
+
 export default function Card({id,name,info,image,price,removeTour}/*props*/){
     const[readMore,setReadmore]=useState(false);
     const description=readMore?info:`${info.substring(0,200)}....`;
